@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kashif-bokhari
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hacking
+- 👀 I’m a Blue Team enthusiast in cyber security
 - 💞️ I’m looking to collaborate on Security Project
 
 <!---
